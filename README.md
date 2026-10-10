@@ -62,3 +62,4 @@ Simple-Banking-System/
 - **Bahasa Pemrograman:** Java
 - **Paradigma Pemrograman:** *Object-Oriented Programming* (OOP)
 - **Struktur Data:** Array
+![Hasil Program](hasil.png)
